@@ -1,4 +1,4 @@
-This repository contains source code for manuscript 'Time series anomaly detection with reconstruction-based state-space models'
+This repository contains source code for the manuscript ‘Time series anomaly detection with reconstruction-based state-space models’.
 
 versions of python libraries:
 filterpy==1.4.5
